@@ -178,6 +178,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -722,7 +748,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      soldier_tilesheet_0: -6663259205633866877
+      soldier_tilesheet_1: -4579362104849367244
+      soldier_tilesheet_10: 3794234576319258998
+      soldier_tilesheet_11: 5920867415670940764
+      soldier_tilesheet_12: -1341022170784618979
+      soldier_tilesheet_13: 8312265840102477695
+      soldier_tilesheet_14: 601290092805488381
+      soldier_tilesheet_15: 3437519965128870942
+      soldier_tilesheet_16: -3606755879605679920
+      soldier_tilesheet_17: 8278047062401298193
+      soldier_tilesheet_18: -3315683045428043120
+      soldier_tilesheet_19: 839525434841961411
+      soldier_tilesheet_2: 5861045168978595651
+      soldier_tilesheet_20: 3218725032453258582
+      soldier_tilesheet_21: -3808914893709968262
+      soldier_tilesheet_22: 3918261720675979842
+      soldier_tilesheet_23: -7885437402381390753
+      soldier_tilesheet_3: -5164361827846720121
+      soldier_tilesheet_4: 6849006530703894086
+      soldier_tilesheet_5: -6376171762187863040
+      soldier_tilesheet_6: 3560086650971734113
+      soldier_tilesheet_7: -3630118766806856252
+      soldier_tilesheet_8: -8708266140324013027
+      soldier_tilesheet_9: 7967936626119294284
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
