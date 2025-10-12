@@ -1,0 +1,957 @@
+fileFormatVersion: 2
+guid: c2c9868d1a31742e1a549d550578c1d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8025534056857485210
+    second: ChatGPT Image 9 Eki 2025 19_28_23_0
+  - first:
+      213: 8240025194327027771
+    second: ChatGPT Image 9 Eki 2025 19_28_23_1
+  - first:
+      213: 7631546967822401196
+    second: ChatGPT Image 9 Eki 2025 19_28_23_2
+  - first:
+      213: 6877147671771375100
+    second: ChatGPT Image 9 Eki 2025 19_28_23_3
+  - first:
+      213: 256679840550126091
+    second: ChatGPT Image 9 Eki 2025 19_28_23_4
+  - first:
+      213: -3928997495565431517
+    second: ChatGPT Image 9 Eki 2025 19_28_23_5
+  - first:
+      213: 4314781031333719502
+    second: ChatGPT Image 9 Eki 2025 19_28_23_6
+  - first:
+      213: -4727331959432928098
+    second: ChatGPT Image 9 Eki 2025 19_28_23_7
+  - first:
+      213: 3460929166807838228
+    second: ChatGPT Image 9 Eki 2025 19_28_23_8
+  - first:
+      213: -7160788116315369693
+    second: ChatGPT Image 9 Eki 2025 19_28_23_9
+  - first:
+      213: 3898120804968429133
+    second: ChatGPT Image 9 Eki 2025 19_28_23_10
+  - first:
+      213: -931422115876046894
+    second: ChatGPT Image 9 Eki 2025 19_28_23_11
+  - first:
+      213: -5012118993066845028
+    second: ChatGPT Image 9 Eki 2025 19_28_23_12
+  - first:
+      213: 886842537429704757
+    second: ChatGPT Image 9 Eki 2025 19_28_23_13
+  - first:
+      213: 3005268256085675685
+    second: ChatGPT Image 9 Eki 2025 19_28_23_14
+  - first:
+      213: 635689063532425957
+    second: ChatGPT Image 9 Eki 2025 19_28_23_15
+  - first:
+      213: -4197029240319760701
+    second: ChatGPT Image 9 Eki 2025 19_28_23_16
+  - first:
+      213: -4826649921716620438
+    second: ChatGPT Image 9 Eki 2025 19_28_23_17
+  - first:
+      213: 2743600937518742153
+    second: ChatGPT Image 9 Eki 2025 19_28_23_18
+  - first:
+      213: -5017604005301286779
+    second: ChatGPT Image 9 Eki 2025 19_28_23_19
+  - first:
+      213: 5743189806606192451
+    second: ChatGPT Image 9 Eki 2025 19_28_23_20
+  - first:
+      213: -1157663585904719124
+    second: ChatGPT Image 9 Eki 2025 19_28_23_21
+  - first:
+      213: -6965421021524544327
+    second: ChatGPT Image 9 Eki 2025 19_28_23_22
+  - first:
+      213: -7104914973550875168
+    second: ChatGPT Image 9 Eki 2025 19_28_23_23
+  - first:
+      213: 6766005043221638666
+    second: ChatGPT Image 9 Eki 2025 19_28_23_24
+  - first:
+      213: 4967178960304278324
+    second: ChatGPT Image 9 Eki 2025 19_28_23_25
+  - first:
+      213: 8763066195696608582
+    second: ChatGPT Image 9 Eki 2025 19_28_23_26
+  - first:
+      213: -7033638881745223135
+    second: ChatGPT Image 9 Eki 2025 19_28_23_27
+  - first:
+      213: -8476892105382495599
+    second: ChatGPT Image 9 Eki 2025 19_28_23_28
+  - first:
+      213: 3574066409664140638
+    second: ChatGPT Image 9 Eki 2025 19_28_23_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 405
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f3acf14bc606f60800000000000000
+      internalID: 8025534056857485210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 105
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30b128b1437a5270800000000000000
+      internalID: 8240025194327027771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 739
+        height: 778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -255.5, y: -195.5}
+        - {x: 258.5, y: -213.5}
+        - {x: 210.5, y: -18}
+        - {x: 258.5, y: 58.5}
+        - {x: 258.5, y: 243.5}
+        - {x: -255.5, y: 270.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae73c79883b8e960800000000000000
+      internalID: 7631546967822401196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 991
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf566dbee59807f50800000000000000
+      internalID: 6877147671771375100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 983
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b028efc74f8ef8300800000000000000
+      internalID: 256679840550126091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 974
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d4c6138956979c0800000000000000
+      internalID: -3928997495565431517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 807
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd6d30cc7e21eb30800000000000000
+      internalID: 4314781031333719502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 999
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9426ae11a4256eb0800000000000000
+      internalID: -4727331959432928098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 951
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eae5c8db0b70030800000000000000
+      internalID: 3460929166807838228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 719
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f0f2fc525cf9c90800000000000000
+      internalID: -7160788116315369693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 147
+        width: 673
+        height: 777
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -259.5, y: -29.5}
+        - {x: -277.5, y: -226.5}
+        - {x: 300.5, y: -226.5}
+        - {x: 173.5, y: -41.5}
+        - {x: 256.5, y: 36.5}
+        - {x: 300.5, y: 217.5}
+        - {x: -212.5, y: 199.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46f3bf0838e81630800000000000000
+      internalID: 3898120804968429133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_11
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1008
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7f34f358ce213f0800000000000000
+      internalID: -931422115876046894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_12
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 961
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c1346c450617ab0800000000000000
+      internalID: -5012118993066845028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_13
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 952
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530243fc692be4c00800000000000000
+      internalID: 886842537429704757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_14
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 146
+        width: 497
+        height: 777
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -157.5, y: 109.5}
+        - {x: -170.5, y: 31.5}
+        - {x: -247.5, y: 10.5}
+        - {x: -240.5, y: -47.5}
+        - {x: -222.5, y: -216.5}
+        - {x: 248.5, y: -239.5}
+        - {x: 248.5, y: 214.5}
+        - {x: -217.5, y: 198.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae8eba6e8bd4b920800000000000000
+      internalID: 3005268256085675685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 518
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e27373d5db62d800800000000000000
+      internalID: 635689063532425957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c620da842821c5c0800000000000000
+      internalID: -4197029240319760701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 390
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63f9e8087b440db0800000000000000
+      internalID: -4826649921716620438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98abb36348a331620800000000000000
+      internalID: 2743600937518742153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 350
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5888078ddb3ed5ab0800000000000000
+      internalID: -5017604005301286779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 326
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f086c43b8e3bf40800000000000000
+      internalID: 5743189806606192451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 231
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea8eb82a172fefe0800000000000000
+      internalID: -1157663585904719124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_22
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 200
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4bdfc3c7ad55f90800000000000000
+      internalID: -6965421021524544327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 142
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed652a9975466d90800000000000000
+      internalID: -7104914973550875168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 95
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e2abd2dbda5ed50800000000000000
+      internalID: 6766005043221638666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 62
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b0bb872f6fee440800000000000000
+      internalID: 4967178960304278324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 55
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645eab9b64aac9970800000000000000
+      internalID: 8763066195696608582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 23
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122433fe3be736e90800000000000000
+      internalID: -7033638881745223135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_28
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 24
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19afc5bea870c5a80800000000000000
+      internalID: -8476892105382495599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image 9 Eki 2025 19_28_23_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55dfaf9672a99130800000000000000
+      internalID: 3574066409664140638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 160348ec748e14fe3bac6373a48977fc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChatGPT Image 9 Eki 2025 19_28_23_0: 8025534056857485210
+      ChatGPT Image 9 Eki 2025 19_28_23_1: 8240025194327027771
+      ChatGPT Image 9 Eki 2025 19_28_23_10: 3898120804968429133
+      ChatGPT Image 9 Eki 2025 19_28_23_11: -931422115876046894
+      ChatGPT Image 9 Eki 2025 19_28_23_12: -5012118993066845028
+      ChatGPT Image 9 Eki 2025 19_28_23_13: 886842537429704757
+      ChatGPT Image 9 Eki 2025 19_28_23_14: 3005268256085675685
+      ChatGPT Image 9 Eki 2025 19_28_23_15: 635689063532425957
+      ChatGPT Image 9 Eki 2025 19_28_23_16: -4197029240319760701
+      ChatGPT Image 9 Eki 2025 19_28_23_17: -4826649921716620438
+      ChatGPT Image 9 Eki 2025 19_28_23_18: 2743600937518742153
+      ChatGPT Image 9 Eki 2025 19_28_23_19: -5017604005301286779
+      ChatGPT Image 9 Eki 2025 19_28_23_2: 7631546967822401196
+      ChatGPT Image 9 Eki 2025 19_28_23_20: 5743189806606192451
+      ChatGPT Image 9 Eki 2025 19_28_23_21: -1157663585904719124
+      ChatGPT Image 9 Eki 2025 19_28_23_22: -6965421021524544327
+      ChatGPT Image 9 Eki 2025 19_28_23_23: -7104914973550875168
+      ChatGPT Image 9 Eki 2025 19_28_23_24: 6766005043221638666
+      ChatGPT Image 9 Eki 2025 19_28_23_25: 4967178960304278324
+      ChatGPT Image 9 Eki 2025 19_28_23_26: 8763066195696608582
+      ChatGPT Image 9 Eki 2025 19_28_23_27: -7033638881745223135
+      ChatGPT Image 9 Eki 2025 19_28_23_28: -8476892105382495599
+      ChatGPT Image 9 Eki 2025 19_28_23_29: 3574066409664140638
+      ChatGPT Image 9 Eki 2025 19_28_23_3: 6877147671771375100
+      ChatGPT Image 9 Eki 2025 19_28_23_4: 256679840550126091
+      ChatGPT Image 9 Eki 2025 19_28_23_5: -3928997495565431517
+      ChatGPT Image 9 Eki 2025 19_28_23_6: 4314781031333719502
+      ChatGPT Image 9 Eki 2025 19_28_23_7: -4727331959432928098
+      ChatGPT Image 9 Eki 2025 19_28_23_8: 3460929166807838228
+      ChatGPT Image 9 Eki 2025 19_28_23_9: -7160788116315369693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

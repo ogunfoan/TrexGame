@@ -29,8 +29,8 @@ public class ObstacleSpawner : MonoBehaviour
     void SpawnRandomObstacle()
     {
         int index = Random.Range(0, obstaclePrefabs.Length);
-        float yPos = -1.5f; // zemin hizası
-        Instantiate(obstaclePrefabs[index], new Vector3(10f, yPos, 0), Quaternion.identity);
+        float yPos = 0f; // zemin hizası
+        Instantiate(obstaclePrefabs[index], new Vector3(13f, yPos, 0), Quaternion.identity);
     }
 
     void SetRandomInterval()

@@ -27,7 +27,7 @@ public class PowerUpSpawner : MonoBehaviour
     void SpawnShield()
     {
         float xPos = Random.Range(8f, 12f);     // görünür alanda
-        float yPos = Random.Range(-1f, 1f);     // zemin üstü seviyesinde
+        float yPos = Random.Range(-3f, 0f);     // zemin üstü seviyesinde
         Instantiate(shieldPrefab, new Vector3(xPos, yPos, 0), Quaternion.identity);
     }
 

@@ -6,7 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
     [Header("Movement Settings")]
     private Rigidbody2D rb;
-    [SerializeField] private float jumpForce = 5f;
+    [SerializeField] private float jumpForce = 15f;
     private bool isGrounded;
     private bool gameOver;
 
@@ -18,6 +18,9 @@ public class PlayerMovement : MonoBehaviour
     public bool hasShield = false;
     public Image shieldIcon;
 
+    [Header("Particle Effects")]
+    public ParticleSystem shieldEffect;
+    public ParticleSystem InstanceParticleEffect;
     private GameManager gameManager;
 
     void Start()
@@ -46,7 +49,6 @@ public class PlayerMovement : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
             isGrounded = false;
-
             audioSource.PlayOneShot(jumpClip);
         }
     }
@@ -83,10 +85,31 @@ public class PlayerMovement : MonoBehaviour
         {
             // Kalkan power-up toplandı
             hasShield = true;
+            ShieldEffectController();
             if (shieldIcon != null)
                 shieldIcon.gameObject.SetActive(true);
+                ShieldEffectController();
 
             Destroy(other.gameObject);
         }
     }
+
+    private void ShieldEffectController()
+    {
+        if (hasShield == true)
+        {
+            if (!shieldEffect.isPlaying)
+            {
+                shieldEffect.Play();
+            }
+        }
+        else
+        {
+            if (shieldEffect.isPlaying)
+            {
+                shieldEffect.Clear();
+            }
+        }
 }
+}
+    

@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 7892111461319943034}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -199,3 +199,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jumpForce: 5
+  jumpClip: {fileID: 0}
+  hasShield: 0
+  shieldIcon: {fileID: 0}
