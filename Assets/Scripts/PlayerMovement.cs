@@ -1,3 +1,4 @@
+using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
@@ -5,6 +6,8 @@ using UnityEngine.UI;
 public class PlayerMovement : MonoBehaviour
 {
     [Header("Movement Settings")]
+
+    public Button jumpButton;
     private Rigidbody2D rb;
     [SerializeField] private float jumpForce = 15f;
     private bool isGrounded;
@@ -39,19 +42,38 @@ public class PlayerMovement : MonoBehaviour
         Jump();
     }
 
-    public void Jump()
-    {
-        if (gameOver) return;
 
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
-        {
-            // Mevcut dikey hızı sıfırla, ardından anlık kuvvet ekle
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
-            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-            isGrounded = false;
-            audioSource.PlayOneShot(jumpClip);
-        }
+    public void JumpButtonPressed()
+{
+    Jump();
+}
+
+private void Jump()
+{
+    if (gameOver) return;
+
+    if (isGrounded)
+    {
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
+        rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+        isGrounded = false;
+        audioSource.PlayOneShot(jumpClip);
     }
+}
+
+    // public void Jump()
+    // {
+    //     if (gameOver) return;
+
+    //     if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+    //     {
+    //         // Mevcut dikey hızı sıfırla, ardından anlık kuvvet ekle
+    //         rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
+    //         rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+    //         isGrounded = false;
+    //         audioSource.PlayOneShot(jumpClip);
+    //     }
+    // }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -86,10 +108,9 @@ public class PlayerMovement : MonoBehaviour
             // Kalkan power-up toplandı
             hasShield = true;
             ShieldEffectController();
-            if (shieldIcon != null)
-                shieldIcon.gameObject.SetActive(true);
-                ShieldEffectController();
-
+            //if (shieldIcon != null)
+            //    shieldIcon.gameObject.SetActive(true);
+            //    ShieldEffectController();
             Destroy(other.gameObject);
         }
     }
@@ -107,9 +128,10 @@ public class PlayerMovement : MonoBehaviour
         {
             if (shieldEffect.isPlaying)
             {
-                shieldEffect.Clear();
+                shieldEffect.Stop(true, ParticleSystemStopBehavior.StopEmittingAndClear);
             }
         }
-}
+    }
+
 }
     

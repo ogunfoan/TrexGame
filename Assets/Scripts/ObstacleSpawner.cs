@@ -35,6 +35,6 @@ public class ObstacleSpawner : MonoBehaviour
 
     void SetRandomInterval()
     {
-        spawnInterval = Random.Range(1f, 4f); // 1 ile 4 saniye arası rastgele süre
+        spawnInterval = Random.Range(3f, 5f); // 3 ile 5 saniye arası rastgele süre
     }
 }

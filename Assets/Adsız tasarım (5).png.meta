@@ -223,7 +223,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Ads\u0131z tasar\u0131m (5)_0": 3232684976560940343
+      "Ads\u0131z tasar\u0131m (5)_1": 7865107296842507140
+      "Ads\u0131z tasar\u0131m (5)_2": 9110378442346241256
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
