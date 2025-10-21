@@ -12,6 +12,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float jumpForce = 15f;
     private bool isGrounded;
     private bool gameOver;
+    private bool isJumpButtonPressed = false;
 
     [Header("Audio")]
     public AudioClip jumpClip;
@@ -44,36 +45,43 @@ public class PlayerMovement : MonoBehaviour
 
 
     public void JumpButtonPressed()
-{
-    Jump();
-}
-
-private void Jump()
-{
-    if (gameOver) return;
-
-    if (isGrounded)
     {
-        rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
-        rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-        isGrounded = false;
-        audioSource.PlayOneShot(jumpClip);
+        isJumpButtonPressed = true;
+        print("Jump button pressed");
+        Invoke("ResetJumpButton", 0.1f); // Kısa bir gecikme ile buton durumunu sıfırla
     }
-}
 
-    // public void Jump()
-    // {
-    //     if (gameOver) return;
+    private void ResetJumpButton()
+    {
+        isJumpButtonPressed = false;
+    }
 
-    //     if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
-    //     {
-    //         // Mevcut dikey hızı sıfırla, ardından anlık kuvvet ekle
-    //         rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
-    //         rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-    //         isGrounded = false;
-    //         audioSource.PlayOneShot(jumpClip);
-    //     }
-    // }
+    // private void Jump()
+// {
+//     if (gameOver) return;
+
+//     if (isGrounded)
+//     {
+//         rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
+//         rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+//         isGrounded = false;
+//         audioSource.PlayOneShot(jumpClip);
+//     }
+// }
+
+    public void Jump()
+    {
+        if (gameOver) return;
+
+        if ( (isJumpButtonPressed && isGrounded) || (Input.GetKeyDown(KeyCode.Space) && isGrounded))
+        {
+            // Mevcut dikey hızı sıfırla, ardından anlık kuvvet ekle
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
+            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            isGrounded = false;
+            audioSource.PlayOneShot(jumpClip);
+        }
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
