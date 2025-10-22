@@ -34,13 +34,22 @@ public class PlayerMovement : MonoBehaviour
         gameManager = FindObjectOfType<GameManager>();
 
         // Kalkan ikonunu başlangıçta gizle
-        if (shieldIcon != null)
+        if (hasShield == false && shieldIcon != null)
             shieldIcon.gameObject.SetActive(false);
     }
 
     void Update()
     {
         Jump();
+    }
+
+    public void ShieldImageController()
+    {
+        if (hasShield == true)
+        {
+            shieldIcon.gameObject.SetActive(hasShield);
+            print("Shield activated");
+        }
     }
 
 
@@ -55,19 +64,6 @@ public class PlayerMovement : MonoBehaviour
     {
         isJumpButtonPressed = false;
     }
-
-    // private void Jump()
-// {
-//     if (gameOver) return;
-
-//     if (isGrounded)
-//     {
-//         rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
-//         rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-//         isGrounded = false;
-//         audioSource.PlayOneShot(jumpClip);
-//     }
-// }
 
     public void Jump()
     {
@@ -116,9 +112,7 @@ public class PlayerMovement : MonoBehaviour
             // Kalkan power-up toplandı
             hasShield = true;
             ShieldEffectController();
-            //if (shieldIcon != null)
-            //    shieldIcon.gameObject.SetActive(true);
-            //    ShieldEffectController();
+            ShieldImageController();
             Destroy(other.gameObject);
         }
     }

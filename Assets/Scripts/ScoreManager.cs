@@ -21,7 +21,7 @@ public class ScoreManager : MonoBehaviour
     {
         //saniye arttikca skor artsin
         score += Time.deltaTime;
-        scoreText.text = "Score: " + Mathf.FloorToInt(score).ToString();
+        scoreText.text = Mathf.FloorToInt(score).ToString();
     }
 
     public void CheckHighScore()
